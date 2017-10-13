@@ -1,0 +1,4 @@
+{
+"__ECO__":"__PACKAGE__",
+"unitypackage":"Anima2D.unitypackage"
+}
